@@ -27,7 +27,7 @@ int main()
     cout<<"Enter a length in cm : ";
     cin>>cm;
 
-    inches = cm / 2.54;
+    inches = cm / 2.54;//no 
 
   cout<<"Length in inches is "<<inches<<"\n";
 
